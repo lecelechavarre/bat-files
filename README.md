@@ -4,7 +4,7 @@ A comprehensive collection of hardened batch scripts designed to optimize, diagn
 
 ---
 
-## 📋 Scripts Overview
+## Scripts Overview
 
 ### 1. **win10-optimizer.bat** - CPU Performance Optimizer
 Advanced CPU usage optimization tool with multiple intervention levels.
@@ -89,7 +89,7 @@ Debug-friendly driver and application update utility using Windows Package Manag
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - **Windows 10/11** (64-bit recommended)
@@ -105,7 +105,7 @@ Debug-friendly driver and application update utility using Windows Package Manag
 
 ---
 
-## 📊 Comparison Matrix
+## Comparison Matrix
 
 | Script | Complexity | Risk Level | Reboot Required | Reversible |
 |--------|-----------|-----------|-----------------|-----------|
