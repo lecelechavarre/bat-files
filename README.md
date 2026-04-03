@@ -116,7 +116,7 @@ Debug-friendly driver and application update utility using Windows Package Manag
 
 ---
 
-## 🔒 Safety & Security
+## Safety & Security
 
 ### What These Scripts Do
 - Modify Windows services and registry keys
