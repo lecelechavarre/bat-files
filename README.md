@@ -131,15 +131,15 @@ Debug-friendly driver and application update utility using Windows Package Manag
 - Bypass Windows security permanently
 
 ### Best Practices
-1. ✅ **Always create a restore point** before running aggressive optimizations
-2. ✅ **Test on non-critical systems** first
-3. ✅ **Review changes** before restarting
-4. ✅ **Re-enable security features** if disabling temporarily
-5. ✅ **Keep system backups** for critical machines
+1. **Always create a restore point** before running aggressive optimizations
+2. **Test on non-critical systems** first
+3. **Review changes** before restarting
+4. **Re-enable security features** if disabling temporarily
+5. **Keep system backups** for critical machines
 
 ---
 
-## ⚙️ Advanced Configuration
+## Advanced Configuration
 
 ### Customizing Scripts
 All scripts use standard batch commands and are fully editable:
