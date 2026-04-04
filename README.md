@@ -23,7 +23,7 @@ Advanced CPU usage optimization tool with multiple intervention levels.
 - Performance optimization before gaming/resource-intensive tasks
 
 **⚠️ Warning:** Aggressive mode disables critical security features. Use only when necessary.
-
+ 
 ---
 
 ### 2. **maintenance.bat** - System Command Center
