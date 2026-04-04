@@ -1,6 +1,6 @@
 # Batch Files Repository 
 
-A comprehensive collection of hardened batch scripts designed to optimize, diagnose, and maintain Windows 10/11 systems. These tools address common performance issues, system maintenance, and driver management challenges.
+A collection of batch scripts designed to optimize, diagnose, and maintain Windows 10/11 systems. These tools address common performance issues, system maintenance, and driver management challenges.
 
 ---
 
